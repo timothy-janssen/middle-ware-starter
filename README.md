@@ -8,3 +8,6 @@ Steps to get node.js application running on Heroku
 
 
 Now you can begin coding the webhooks necesary for your CAI bot
+
+
+Use 'npm install' to update any dependancies
